@@ -1,6 +1,6 @@
 # Bundler and Minifier
 
-A Visual Studio extension that let's you configure bundling and
+A Visual Studio extension that lets you configure bundling and
 minification of JS, CSS and HTML files.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ktn1qy982qsprwb5?svg=true)](https://ci.appveyor.com/project/madskristensen/bundlerminifier)
